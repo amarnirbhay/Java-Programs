@@ -11,6 +11,6 @@ public class CountOfname {
 					count++;
 				}
 			}
-			System.out.println("Count Of all Names is: "+count);
+			System.out.println("Count Of all Names are: "+count);
 		}
 }
